@@ -1,0 +1,9 @@
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .
+Manifest-Version: 1.0
+Bundle-Vendor: com.acme.automation.operation
+Bundle-Version: 1.0.0
+Bundle-Name: nuxeo-custom-operation-add-to-collection-with-lock-core
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: com.acme.automation.operation.nuxeo-custom-operation-add-to-collection-with-lock-core;singleton=true
+Nuxeo-Component: OSGI-INF/addtocollectionwithlock-operation-contrib.xml
